@@ -48,9 +48,6 @@ Full-stack booking system with user authentication and seamless REST API integra
 **Tech:** React.js · Spring Boot · MySQL  
 
 ---
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 

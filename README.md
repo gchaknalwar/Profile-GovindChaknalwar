@@ -52,10 +52,11 @@ Full-stack booking system with user authentication and seamless REST API integra
 
 ## 📊 GitHub Stats
 
-![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=gchaknalwar&show_icons=true)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gchaknalwar&layout=compact)
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gchaknalwar&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gchaknalwar&layout=compact)
 
 ## 🤝 Connect With Me
 

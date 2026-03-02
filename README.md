@@ -51,10 +51,9 @@ Full-stack booking system with user authentication and seamless REST API integra
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gchaknalwar&show_icons=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gchaknalwar&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gchaknalwar&layout=compact)
-
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gchaknalwar&layout=compact&theme=default)
 ## 🤝 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/govind-chaknalwar-b35278215/  

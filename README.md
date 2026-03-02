@@ -50,12 +50,11 @@ Full-stack booking system with user authentication and seamless REST API integra
 ---
 ## 📊 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Stats
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gchaknalwar&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gchaknalwar&layout=compact&theme=tokyonight&hide_border=true"/>
+![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=gchaknalwar&show_icons=true)
 
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gchaknalwar&layout=compact)
 ---
 
 ## 🤝 Connect With Me

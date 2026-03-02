@@ -48,7 +48,6 @@ Full-stack booking system with user authentication and seamless REST API integra
 **Tech:** React.js · Spring Boot · MySQL  
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -57,7 +56,6 @@ Full-stack booking system with user authentication and seamless REST API integra
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gchaknalwar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 ---
 
 ## 🤝 Connect With Me
